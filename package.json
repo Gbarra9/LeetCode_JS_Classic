@@ -1,0 +1,23 @@
+{
+  "name": "LeetCode_JS_Classic",
+  "version": "1.0.0",
+  "description": "<img src=\"https://static.kaeducation.com/lc-js-classic.jpg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbarra9/LeetCode_JS_Classic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gbarra9/LeetCode_JS_Classic/issues"
+  },
+  "homepage": "https://github.com/Gbarra9/LeetCode_JS_Classic#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
